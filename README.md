@@ -1,6 +1,6 @@
 # Hi, I'm William Stern 👋
 
-**Software Engineer @ AWS | AI/ML Engineer | UC Berkeley CS + Data Science**  
+**Software Engineer @ AWS | UC Berkeley CS + Data Science**  
 
 I’m a software & research engineer passionate about building intelligent systems, scalable cloud infrastructure, and tools that make data more actionable. My background spans **applied AI**, **cloud development**, and **technical leadership**.
 
