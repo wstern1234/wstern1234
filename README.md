@@ -60,4 +60,4 @@ A **local-first RAG chatbot** that combines **FAISS semantic search** with **Goo
 
 ---
 
-Feel free to explore my repos — I’m always open to collaboration, feedback, and new opportunities to build impactful software.
+Feel free to explore my other repos. I’m always open to collaboration, feedback, and new opportunities to build impactful software.
