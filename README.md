@@ -2,12 +2,10 @@
 
 **Software Engineer @ AWS | UC Berkeley CS + Data Science**  
 
-I’m a software & research engineer passionate about building intelligent systems, scalable cloud infrastructure, and tools that make data more actionable. My background spans **applied AI**, **cloud development**, and **technical leadership**.
-
 ---
 
 ## Tech Stack
-- **Languages & AI:** Python, Java, C/C++, PyTorch, Hugging Face, LangChain, Transformers, NLP, Computer Vision  
+- **Languages & AI:** Python, Java, C/C++, PyTorch, TensorRT, CUDA, Hugging Face, Transformers, NLP, Computer Vision  
 - **Cloud & Systems:** AWS (S3, EC2, Athena), Google Cloud, Docker, REST APIs, CI/CD, Linux  
 - **Data Engineering:** ETL pipelines, Retrieval-Augmented Generation (RAG), Vector DBs (FAISS), Testing & Validation  
 
@@ -29,6 +27,18 @@ I’m a software & research engineer passionate about building intelligent syste
 ---
 
 ## Featured Projects
+
+### 🤖📏 [Yardstick](https://github.com/wstern1234/yardstick)
+
+A **modular AI performance benchmarking system** built to evaluate TensorRT models like ResNet and BERT with dynamic precision, automated logging, and performance summarization.
+
+* **GPU-accelerated** inference using TensorRT (FP16 and FP32 support)
+* Unified **CLI interface** for running and comparing benchmarks across models
+* Automatic **log parsing and summarization** for reproducible performance tracking
+* Demonstrates **deep learning systems optimization** and **software design for automation**  
+
+---
+
 ### 💧 [Meltwater](https://github.com/wstern1234/meltwater)  
 A lightweight, self-hosted Python project that exposes a **pretrained LLM via FastAPI REST API** with JWT authentication and a Gradio interface.  
 - Endpoints for `/login`, `/generate`, and `/generate_stream` (streaming ChatGPT-style outputs)  
