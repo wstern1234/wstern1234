@@ -59,7 +59,7 @@ A **locally fine-tuned GPT-2 tiny model**, trained fully on consumer hardware (W
 A **local-first RAG chatbot** that combines **FAISS semantic search** with **Google Gemini** for context-aware answers.  
 - Load and embed PDFs into a FAISS vector database  
 - Retrieve context and generate responses with Gemini via LangChain  
-- Lightweight **CLI chatbot** for querying your personal knowledge base
+- Lightweight CLI chatbot for querying your personal knowledge base
 
 ---
 
