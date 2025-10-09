@@ -63,6 +63,14 @@ A **local-first RAG chatbot** that combines **FAISS semantic search** with **Goo
 
 ---
 
+### 🧪 [research](https://github.com/wstern1234/research)
+**Asthma Diagnosis (ml_research/)**:
+- Explores early-onset asthma prediction using social and socioeconomic indicators. Implements Logistic Regression, Decision Tree (CART), Random Forest, and XGBoost models with extensive data preprocessing (VIF, PCA, feature scaling, K-fold validation). Achieved high interpretability and addressed challenges of severe class imbalance in medical datasets.
+**BERT for NLP Classification (nlp_research/)**:
+- Fine-tuned a pretrained BERT model on a custom annotated dataset for text classification. Covers full preprocessing, tokenization, and evaluation pipelines, showcasing applied NLP model development and dataset curation.
+
+---
+
 ## Connect With Me
 - **Portfolio:** [w-stern.com](http://w-stern.com)  
 - **LinkedIn:** [linkedin.com/in/wills-stern](http://linkedin.com/in/wills-stern)  
