@@ -26,7 +26,7 @@
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### 🤖📏 [Yardstick](https://github.com/wstern1234/yardstick)
 
