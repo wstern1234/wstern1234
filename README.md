@@ -28,6 +28,20 @@
 
 ## Featured Work
 
+
+
+### 🛡️ [Brigade](https://github.com/wstern1234/brigade) (*In Development*)
+
+A lightweight benchmarking framework that emulates multi-GPU training behavior on a single consumer GPU, enabling fast experimentation with parallelism strategies without expensive hardware.
+
+* Simulates data-parallel and pipeline-parallel workflows on a single GPU
+* Supports configurable batch partitioning, communication-delay modeling, and step-time profiling
+* Provides a unified CLI for running experiments and comparing parallelization strategies
+* Automatically logs performance traces and produces summarized reports
+* Designed for learning *systems-level ML engineering* without needing access to multi-node clusters
+
+---
+
 ### 🤖📏 [Yardstick](https://github.com/wstern1234/yardstick)
 
 A **modular AI performance benchmarking system** built to evaluate TensorRT models like ResNet and BERT with dynamic precision, automated logging, and performance summarization.
