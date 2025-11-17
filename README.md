@@ -73,7 +73,7 @@ A **local-first RAG chatbot** that combines **FAISS semantic search** with **Goo
 ---
 
 ## Connect With Me
-- **Portfolio:** [w-stern.com](http://w-stern.com)  
+- **Personal site:** [w-stern.com](http://w-stern.com)  
 - **LinkedIn:** [linkedin.com/in/wills-stern](http://linkedin.com/in/wills-stern)  
 - **Email:** [willsstern@gmail.com](mailto:willsstern@gmail.com)  
 
