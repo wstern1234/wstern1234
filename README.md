@@ -13,8 +13,8 @@
 
 ## Experience
 - **Amazon Web Services (AWS)** — Software Development Engineer  
+  - Led the rollout of a worldwide testing and approval system across a multi-region deployment pipeline, providing continuous health checks and automated verification at scale.
   - Built AI-powered visualization pipelines reducing reporting time from *days to minutes*
-  - Designed test coverage across S3 APIs to ensure reliability and backward compatibility
   - Strengthened S3 bucket security with the cybersecurity team, mitigating misconfiguration risks and improving security compliance.
 
 - **Mendel.ai** — AI Research Engineer Intern  
