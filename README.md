@@ -30,7 +30,7 @@
 
 
 
-### 🛡️ [Brigade](https://github.com/wstern1234/brigade) (*In Development*)
+### 🛡️ [Brigade](https://github.com/wstern1234/brigade)
 
 A lightweight benchmarking framework that emulates multi-GPU training behavior on a single consumer GPU, enabling fast experimentation with parallelism strategies without expensive hardware.
 
