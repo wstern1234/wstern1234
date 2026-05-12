@@ -1,34 +1,39 @@
 # Hi, I'm William Stern
 
-**Software Engineer @ AWS | UC Berkeley CS + Data Science**  
+**Software Engineer @ AWS | Distributed Systems & ML Infrastructure**  
 
 ---
 
 ## Tech Stack
-- **Languages & AI:** Python, Java, C/C++, PyTorch, TensorRT, CUDA, Hugging Face, Transformers, NLP, Computer Vision  
-- **Cloud & Systems:** AWS (S3, EC2, Athena), Google Cloud, Docker, REST APIs, CI/CD, Linux  
-- **Data Engineering:** ETL pipelines, Retrieval-Augmented Generation (RAG), Vector DBs (FAISS), Testing & Validation  
+- **Languages:** Python, Java, C/C++, TypeScript, SQL, Git
+- **ML & AI:** PyTorch, TensorRT, CUDA, Hugging Face, Transformers, NLP, Computer Vision
+- **Cloud & Infrastructure:** AWS (S3, EC2, Athena, CDK, CloudFormation), Google Cloud, Docker, Linux, CI/CD, Infrastructure as Code (IaC)
+- **Systems:** Distributed Systems, ML Infrastructure, System Design, REST APIs
+- **Data Engineering:** ETL Pipelines, Retrieval-Augmented Generation (RAG), Vector DBs (FAISS), Testing & Validation
 
 ---
 
 ## Experience
-- **Amazon Web Services (AWS)** — Software Development Engineer  
-  - Led the rollout of a worldwide testing and approval system across a multi-region deployment pipeline, providing continuous health checks and automated verification at scale.
-  - Built AI-powered visualization pipelines reducing reporting time from *days to minutes*
-  - Strengthened S3 bucket security with the cybersecurity team, mitigating misconfiguration risks and improving security compliance.
-
-- **Mendel.ai** — AI Research Engineer Intern  
-  - Prototyped knowledge extraction + cloud-parallelized processing pipelines for clinical research  
-  - Improved automation and reliability of AI-powered medical data tools  
-
-- **UC Berkeley CTO (Student Government)** — Led digital infrastructure for 40k+ students  
-- **Lawrence Berkeley National Lab** — Researched AI/ML for biological datasets  
+**Amazon Web Services** | Seattle, WA | *May 2024 – Present*  
+*Software Development Engineer (Jul 2025 – Present)*  
+*Software Development Engineer Intern (May 2024 – Aug 2024)*  
+- Built an end-to-end ML data pipeline integrating model inference with downstream AWS service APIs, automating reporting workflows and cutting analyst cycle time from days to minutes; designed for fault tolerance and observability across distributed infrastructure.
+- Independently identified an active data exposure vulnerability through open-source reconnaissance, scoped the attack surface, and led cross-functional remediation with the cybersecurity team: hardening bucket policies, enforcing IAM access controls, and fixing security gaps at scale.
+- Extended a multi-region deployment pipeline with automated health checks, continuous integration, and CloudWatch observability, improving reliability for S3's infrastructure serving global-scale traffic.
+**Mendel.ai** | San Jose, CA | *Jun 2023 – Aug 2023*  
+*AI Research Engineer Intern*  
+- Prototyped knowledge extraction + cloud-parallelized processing pipelines for clinical research.
+- Improved automation and reliability of AI-powered medical data tools.
+**UC Berkeley, ASUC** | *Sep 2023 – May 2024*  
+*Chief Technology Officer (Student Government)*  
+- Led digital infrastructure and technical projects for UC Berkeley's 40k+ student body.
+**Lawrence Berkeley National Lab** | *Jun 2021 – Aug 2021*  
+*ML Research Assistant*  
+- Researched AI/ML for biological datasets using protein data APIs and custom algorithms.  
 
 ---
 
 ## Featured Work
-
-
 
 ### 🛡️ [Brigade](https://github.com/wstern1234/brigade)
 
@@ -55,41 +60,25 @@ A **modular AI performance benchmarking system** built to evaluate TensorRT mode
 
 ### 💧 [Meltwater](https://github.com/wstern1234/meltwater)  
 A lightweight, self-hosted Python project that exposes a **pretrained LLM via FastAPI REST API** with JWT authentication and a Gradio interface.  
-- Endpoints for `/login`, `/generate`, and `/generate_stream` (streaming ChatGPT-style outputs)  
-- Fully **Dockerized** for one-container deployment (API + UI)  
-- Supports **JWT-secured access** and optional hot-reload for development  
-
----
-
-### 🧠 [wee_model](https://github.com/wstern1234/wee_model)  
-A **locally fine-tuned GPT-2 tiny model**, trained fully on consumer hardware (Windows, CPU).  
-- 18,000 training steps on a custom dataset with Hugging Face + PyTorch  
-- Checkpoint saving/restoration for reproducibility  
-- Interactive text generation loop for rapid testing  
-
----
-
-### 💠 [Holocron](https://github.com/wstern1234/holocron)  
-A **local-first RAG chatbot** that combines **FAISS semantic search** with **Google Gemini** for context-aware answers.  
-- Load and embed PDFs into a FAISS vector database  
-- Retrieve context and generate responses with Gemini via LangChain  
-- Lightweight CLI chatbot for querying your personal knowledge base
+* Endpoints for `/login`, `/generate`, and `/generate_stream` (streaming ChatGPT-style outputs)  
+* Fully **Dockerized** for one-container deployment (API + UI)  
+* Supports **JWT-secured access** and optional hot-reload for development  
 
 ---
 
 ### 🧪 [research](https://github.com/wstern1234/research)
 **Asthma Diagnosis (ml_research/)**:
-- Explores early-onset asthma prediction using social and socioeconomic indicators. Implements Logistic Regression, Decision Tree (CART), Random Forest, and XGBoost models with extensive data preprocessing (VIF, PCA, feature scaling, K-fold validation). Achieved high interpretability and addressed challenges of severe class imbalance in medical datasets.
+* Explores early-onset asthma prediction using social and socioeconomic indicators. Implements Logistic Regression, Decision Tree (CART), Random Forest, and XGBoost models with extensive data preprocessing (VIF, PCA, feature scaling, K-fold validation). Achieved high interpretability and addressed challenges of severe class imbalance in medical datasets.
 
 **BERT for NLP Classification (nlp_research/)**:
-- Fine-tuned a pretrained BERT model on a custom annotated dataset for text classification. Covers full preprocessing, tokenization, and evaluation pipelines, showcasing applied NLP model development and dataset curation.
+* Fine-tuned a pretrained BERT model on a custom annotated dataset for text classification. Covers full preprocessing, tokenization, and evaluation pipelines, showcasing applied NLP model development and dataset curation.
 
 ---
 
 ## Connect With Me
 - **Personal site:** [w-stern.com](http://w-stern.com)  
 - **LinkedIn:** [linkedin.com/in/wills-stern](http://linkedin.com/in/wills-stern)  
-- **Email:** [willsstern@gmail.com](mailto:willsstern@gmail.com)  
+- **Email:** [wills.stern@gmail.com](mailto:wills.stern@gmail.com)  
 
 ---
 
