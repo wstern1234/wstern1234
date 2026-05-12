@@ -23,8 +23,8 @@
 
 **Mendel.ai** | San Jose, CA | *Jun 2023 – Aug 2023*  
 *AI Research Engineer Intern*  
-- Prototyped knowledge extraction + cloud-parallelized processing pipelines for clinical research.
-- Improved automation and reliability of AI-powered medical data tools.
+- Collaborated with Applied Scientists to engineer a high-performance proprietary query language for AI agent search tools, achieving 40% faster execution than SQL for large-scale clinical data retrieval.
+- Architected large-scale data transformation workflows for medical ontologies, streamlining the ingestion process for fault-tolerant NLP pipelines processing clinical research data.
 
 **UC Berkeley, ASUC** | *Sep 2023 – May 2024*  
 *Chief Technology Officer (Student Government)*  
