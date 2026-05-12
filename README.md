@@ -20,13 +20,16 @@
 - Built an end-to-end ML data pipeline integrating model inference with downstream AWS service APIs, automating reporting workflows and cutting analyst cycle time from days to minutes; designed for fault tolerance and observability across distributed infrastructure.
 - Independently identified an active data exposure vulnerability through open-source reconnaissance, scoped the attack surface, and led cross-functional remediation with the cybersecurity team: hardening bucket policies, enforcing IAM access controls, and fixing security gaps at scale.
 - Extended a multi-region deployment pipeline with automated health checks, continuous integration, and CloudWatch observability, improving reliability for S3's infrastructure serving global-scale traffic.
+
 **Mendel.ai** | San Jose, CA | *Jun 2023 – Aug 2023*  
 *AI Research Engineer Intern*  
 - Prototyped knowledge extraction + cloud-parallelized processing pipelines for clinical research.
 - Improved automation and reliability of AI-powered medical data tools.
+
 **UC Berkeley, ASUC** | *Sep 2023 – May 2024*  
 *Chief Technology Officer (Student Government)*  
 - Led digital infrastructure and technical projects for UC Berkeley's 40k+ student body.
+
 **Lawrence Berkeley National Lab** | *Jun 2021 – Aug 2021*  
 *ML Research Assistant*  
 - Researched AI/ML for biological datasets using protein data APIs and custom algorithms.  
